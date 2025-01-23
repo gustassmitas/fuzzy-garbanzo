@@ -1,0 +1,16 @@
+ 1005  git log --oneline
+ 1006  git checkout e2372b1
+ 1007  git checkout main 
+ 1008  git add .gitignore
+ 1009  git commit -m "Add .gitignore to exclude unnecessary files"
+ 1010  git status
+ 1011  git status
+ 1012  git log --shortline
+ 1013  git log --oneline
+ 1014  git add .gitignore
+ 1015  git st
+ 1016  git status
+ 1017  git commit -m "Add .gitignore to exclude unnecessary files"
+ 1018  git status
+ 1019  git log 
+ 1020  git log --oneline 
